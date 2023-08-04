@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335884330765",
+    "project_id": "doce-devocao",
+    "storage_bucket": "doce-devocao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335884330765:android:9fd67282278eee96f8f244",
+        "android_client_info": {
+          "package_name": "com.docedevocao.vendas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335884330765-a6rdbdfdo47lfpoqjragnqf4h5a9994k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9N2VK265lHSIlUSzqLtKyK4GTwju03M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335884330765-a6rdbdfdo47lfpoqjragnqf4h5a9994k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
